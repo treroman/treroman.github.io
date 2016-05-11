@@ -1,0 +1,28 @@
+body {
+      text-align: center;
+      background: url("http://wallpapers-and-backgrounds.net/wp-content/uploads/2015/11/basketball-wallpaper_1.jpg");
+      background-size: cover;
+      color: white;
+      font-family: helvetica;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      text-align: center;
+     }
+    ul {
+      padding: 10px;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+    article.fade-bg {
+        background-color: rgba(0,0,0,0.7);
+        border-radius: 10px;
+    }
